@@ -43,7 +43,7 @@ this.arr.push(element);
 
   setComparator(compareFunction) {
     // your implementation
-    this.setComparator=compareFunction;
+    this.сompare=compareFunction;
   }
 }
 
